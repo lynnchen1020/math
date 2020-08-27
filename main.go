@@ -7,5 +7,5 @@ func privateAdd(a int, b int) (c int) {
 
 func Add(a int, b int) (c int) {
 	c = a + b
-	retrun
+	return
 }
